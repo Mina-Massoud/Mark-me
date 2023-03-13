@@ -17,3 +17,4 @@ To use the Mark-me Simple Bookmark Extension, follow these steps:
 - The saved bookmarks will be displayed on the screen.
 - To delete all bookmarks, click the "Delete All" button.
 ## image
+![image](https://user-images.githubusercontent.com/102828808/224609596-06a4ddfa-3cb5-47a5-ab7a-9c47bdbe1835.png)
